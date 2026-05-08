@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Naman and I'm a Developer</p>
+<p align="left">My name is Naman and I'm a Full stack developer</p>
 
 ###
 
