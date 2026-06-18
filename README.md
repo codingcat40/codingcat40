@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning CI/CD, Django, Three JS <br>🎯 Goals: Contributing to one of the best firms as a developer or maybe Launch my own product soon for real users? who knows <br></p>
+<p align="left">✨ Creating bugs since 2024<br> 
 
 ###
 
