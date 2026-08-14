@@ -6,3 +6,5 @@ Hello, I am Naman and I love to build things. I am currently<br>deep diving into
 # 💻 Tech Stack:
 Typescript, NextJS, React, Python, Express, MongoDB, MySQL  
 
+# 💻 Currently Learning:
+Agentic AI  
